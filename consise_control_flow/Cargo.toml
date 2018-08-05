@@ -1,0 +1,6 @@
+[package]
+name = "consise_control_flow"
+version = "0.1.0"
+authors = ["DESKTOP-Chicago\\twill <twill14@gmail.com>"]
+
+[dependencies]
