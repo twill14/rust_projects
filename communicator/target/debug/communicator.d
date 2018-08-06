@@ -1,0 +1,1 @@
+/Users/twill/rust_projects/communicator/target/debug/communicator.dSYM: /Users/twill/rust_projects/communicator/src/client.rs /Users/twill/rust_projects/communicator/src/lib.rs /Users/twill/rust_projects/communicator/src/main.rs /Users/twill/rust_projects/communicator/src/network/mod.rs /Users/twill/rust_projects/communicator/src/network/server.rs

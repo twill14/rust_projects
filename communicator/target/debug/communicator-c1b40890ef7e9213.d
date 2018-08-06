@@ -1,0 +1,1 @@
+/Users/twill/rust_projects/communicator/target/debug/communicator-c1b40890ef7e9213: /Users/twill/rust_projects/communicator/src/client.rs /Users/twill/rust_projects/communicator/src/lib.rs /Users/twill/rust_projects/communicator/src/network/mod.rs /Users/twill/rust_projects/communicator/src/network/server.rs

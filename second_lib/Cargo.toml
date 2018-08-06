@@ -1,0 +1,6 @@
+[package]
+name = "second_lib"
+version = "0.1.0"
+authors = ["twillbenchprep <tomw@benchprep.com>"]
+
+[dependencies]
