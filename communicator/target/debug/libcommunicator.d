@@ -1,0 +1,1 @@
+C:\Users\twill\Desktop\rust_projects\communicator\target\debug\libcommunicator.rlib: C:\Users\twill\Desktop\rust_projects\communicator\src\client.rs C:\Users\twill\Desktop\rust_projects\communicator\src\lib.rs C:\Users\twill\Desktop\rust_projects\communicator\src\network\mod.rs C:\Users\twill\Desktop\rust_projects\communicator\src\network\server.rs
